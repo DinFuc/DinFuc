@@ -5,8 +5,9 @@ I'm <a href="https://github.com/DinFuc" target="_blank"> Dinh Phuc</a> <img src=
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinFuc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <br>
-  <a href="https://github.com/DinFuc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinFuc&layout=compact&theme=buefy&hide_border=true" /></a> 
+  <a href="https://github.com/DinFuc/github-readme-stats-1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinFuc&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p>
+
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" /> <br>
 
