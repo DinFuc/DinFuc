@@ -3,9 +3,10 @@ I'm <a href="https://github.com/DinFuc" target="_blank"> Dinh Phuc</a> <img src=
 - 🌱 I’m currently learning C++ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>, Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
  and AutoIt <code><img height="20" src = "https://user-images.githubusercontent.com/87629665/143540286-e499cdb8-3dd8-45f3-90c1-552359eab402.png"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinFuc)](https://github.com/DinFuc/github-readme-stats-1)
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinFuc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <br>
+  <a href="https://github.com/DinFuc/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinFuc&layout=compact&theme=buefy&hide_border=true" /></a> 
+</p>
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" /> <br>
 
