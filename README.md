@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm <a href="https://github.com/DinFuc" target="_blank"> Dinh Phuc</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🌱 I’m currently learning C++ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>, Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- and AutoIt <code><img height="20" src = "https://user-images.githubusercontent.com/87629665/143540286-e499cdb8-3dd8-45f3-90c1-552359eab402.png"></code>
+- 🌱 I’m currently learning C++ <img height="30" src="https://user-images.githubusercontent.com/87629665/211177116-5ebb86d8-e819-4b2e-90d6-04bc88886ccf.png">, Python <img height="30" src="https://user-images.githubusercontent.com/87629665/211177049-c87f87c8-1436-4382-9858-ee168cf45e56.png">
+ and AutoIt <img height="30" src = "https://user-images.githubusercontent.com/87629665/211176911-fff2d916-0928-4649-8a9d-c8b7f5520314.png">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=DinFuc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinFuc&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" /> <br>
