@@ -12,7 +12,7 @@ I'm <a href="https://github.com/DinFuc" target="_blank"> Dinh Phuc</a> <img src=
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" /> <br>
 
-<a href="https://app.daily.dev/DinFuc"><img src="https://api.daily.dev/devcards/b06a408abf5f4579aaab409b80daac28.png?r=wm5" width="400" alt="yifafa's Dev Card"/></a>
+<a href="https://app.daily.dev/DinFuc"><img src="https://api.daily.dev/devcards/b06a408abf5f4579aaab409b80daac28.png?r=4hh" width="400" alt="Phuc's Dev Card"/></a>
 
 <!--
 **DinFuc/DinFuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
